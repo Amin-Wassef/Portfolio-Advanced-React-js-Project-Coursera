@@ -1,0 +1,5 @@
+input.input-alert,
+select.input-alert,
+textarea.input-alert {
+    border-color: red
+}
